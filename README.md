@@ -8,20 +8,28 @@ Me interesa construir software que resuelva problemas reales, especialmente en e
 
 ### ◇ Tech Stack
 
-<p align="center">
-  <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=java,cs,py,js,ts&theme=dark" height="38" alt="Languages" />
-</p>
+<br />
 
 <p align="center">
-  <b>Frameworks & Databases</b><br>
-  <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,react,postgres,dynamodb,prisma&theme=dark" height="38" alt="Frameworks & DBs" />
+  <sub><b>LANGUAGES</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=java,cs,py,js,ts&theme=dark" height="36" alt="Languages" />
 </p>
 
+<br />
+
 <p align="center">
-  <b>Cloud & Tools</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,postman&theme=dark" height="38" alt="Cloud & Tools" />
+  <sub><b>FRAMEWORKS & DATABASES</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,react,postgres,dynamodb,prisma&theme=dark" height="36" alt="Frameworks & DBs" />
 </p>
+
+<br />
+
+<p align="center">
+  <sub><b>CLOUD & TOOLS</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,postman&theme=dark" height="36" alt="Cloud & Tools" />
+</p>
+
+<br />
 
 ---
 
@@ -93,15 +101,18 @@ Laboratorio interactivo sobre XSS, Session Hijacking y contramedidas alineadas c
 
 ---
 
-### ◫ Development Metrics & Languages
+### ◫ Development Metrics
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Pipe-C&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipe-C&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pipe-C&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=Pipe-C&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipe-C&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pipe-C&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
