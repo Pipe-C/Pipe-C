@@ -9,7 +9,18 @@ Me interesa construir software que resuelva problemas reales, especialmente en e
 ### ◇ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,py,js,ts,spring,nestjs,nodejs,react,vite,tailwind,postgres,dynamodb,prisma,aws,docker,nginx,git,github,postman&theme=dark" alt="Felipe's Tech Stack" />
+  <b>Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=java,cs,py,js,ts&theme=dark" height="38" alt="Languages" />
+</p>
+
+<p align="center">
+  <b>Frameworks & Databases</b><br>
+  <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,react,postgres,dynamodb,prisma&theme=dark" height="38" alt="Frameworks & DBs" />
+</p>
+
+<p align="center">
+  <b>Cloud & Tools</b><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,postman&theme=dark" height="38" alt="Cloud & Tools" />
 </p>
 
 ---
@@ -85,12 +96,12 @@ Laboratorio interactivo sobre XSS, Session Hijacking y contramedidas alineadas c
 ### ◫ Development Metrics & Languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstme-readme-stats.vercel.app/api?username=Pipe-C&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-git-masterrstme-readme-stats.vercel.app/api/top-langs/?username=Pipe-C&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Most Used Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Pipe-C&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipe-C&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Pipe-C&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=Pipe-C&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
