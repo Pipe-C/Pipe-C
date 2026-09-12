@@ -8,11 +8,12 @@ Estudiante de **Tecnología en Desarrollo de Software** en la Institución Unive
 
 <p align="left">
   <!-- Lenguajes -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openapi-initiative&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <br />
   <!-- Frameworks & Libs -->
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
@@ -32,12 +33,8 @@ Estudiante de **Tecnología en Desarrollo de Software** en la Institución Unive
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img height="165rem" src="https://github-readme-stats.vercel.app/api?username=Pipe-C&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pipe-C GitHub Stats" />
-  <img height="165rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Pipe-C&theme=tokyonight&hide_border=true" alt="Pipe-C GitHub Streak" />
-</p>
-
-<p align="center">
-  <img height="165rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipe-C&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats-git-masterrstme-readme-stats.vercel.app/api?username=Pipe-C&show_icons=true&theme=tokyonight&hide_border=true" alt="Pipe-C GitHub Stats" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Pipe-C&theme=tokyonight&hide_border=true" alt="Pipe-C GitHub Streak" />
 </p>
 
 ---
