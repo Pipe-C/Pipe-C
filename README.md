@@ -8,26 +8,37 @@ Me interesa construir software que resuelva problemas reales, especialmente en e
 
 ### ◇ Tech Stack
 
-<br />
-
-<div align="center">
-
-  <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=java,cs,py,js,ts&theme=dark" height="42" alt="Languages" />
-  
-  <br /><br />
-
-  <h4>Frameworks & Databases</h4>
-  <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,react,postgres,dynamodb,prisma&theme=dark" height="42" alt="Frameworks & DBs" />
-  
-  <br /><br />
-
-  <h4>Cloud & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,postman&theme=dark" height="42" alt="Cloud & Tools" />
-
-</div>
-
-<br />
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <sub><b>LANGUAGES</b></sub><br /><br />
+      <img src="https://skillicons.dev/icons?i=java" height="36" title="Java" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=cs" height="36" title="C#" alt="C#" />
+      <img src="https://skillicons.dev/icons?i=py" height="36" title="Python" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=js" height="36" title="JavaScript" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=ts" height="36" title="TypeScript" alt="TypeScript" />
+    </td>
+    <td align="center" width="34%" valign="top">
+      <sub><b>FRAMEWORKS & DBs</b></sub><br /><br />
+      <img src="https://skillicons.dev/icons?i=spring" height="36" title="Spring Boot" alt="Spring Boot" />
+      <img src="https://skillicons.dev/icons?i=nestjs" height="36" title="NestJS" />
+      <img src="https://skillicons.dev/icons?i=nodejs" height="36" title="Node.js" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=react" height="36" title="React" alt="React" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="36" title="PostgreSQL" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=dynamodb" height="36" title="DynamoDB" alt="DynamoDB" />
+      <img src="https://skillicons.dev/icons?i=prisma" height="36" title="Prisma ORM" alt="Prisma" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <sub><b>CLOUD & TOOLS</b></sub><br /><br />
+      <img src="https://skillicons.dev/icons?i=aws" height="36" title="Amazon Web Services" alt="AWS" />
+      <img src="https://skillicons.dev/icons?i=docker" height="36" title="Docker" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=nginx" height="36" title="Nginx" alt="Nginx" />
+      <img src="https://skillicons.dev/icons?i=git" height="36" title="Git" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=github" height="36" title="GitHub" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=postman" height="36" title="Postman" alt="Postman" />
+    </td>
+  </tr>
+</table>
 
 ---
 
