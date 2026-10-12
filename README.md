@@ -2,7 +2,7 @@
 
 Estudiante de **Tecnología en Desarrollo de Software** en la I.U. Pascual Bravo y **Auxiliar Aprendiz en Protección S.A.**
 
-Me interesa construir software que resuelva problemas reales, especialmente en el desarrollo backend, diseño de APIs, arquitectura de software y soluciones Cloud/Serverless. Actualmente sigo fortaleciendo mis conocimientos en **Java, Spring Boot, Node.js y AWS**.
+Me interesa construir software que resuelva problemas reales, especialmente en desarrollo backend, diseño de APIs, arquitectura de software y soluciones Cloud/Serverless. Actualmente sigo fortaleciendo mis conocimientos en **Java, Spring Boot, Node.js y AWS**.
 
 ---
 
@@ -21,7 +21,7 @@ Me interesa construir software que resuelva problemas reales, especialmente en e
     <td align="center" width="34%" valign="top">
       <sub><b>FRAMEWORKS & DBs</b></sub><br /><br />
       <img src="https://skillicons.dev/icons?i=spring" height="36" title="Spring Boot" alt="Spring Boot" />
-      <img src="https://skillicons.dev/icons?i=nestjs" height="36" title="NestJS" />
+      <img src="https://skillicons.dev/icons?i=nestjs" height="36" title="NestJS" alt="NestJS" />
       <img src="https://skillicons.dev/icons?i=nodejs" height="36" title="Node.js" alt="Node.js" />
       <img src="https://skillicons.dev/icons?i=react" height="36" title="React" alt="React" />
       <img src="https://skillicons.dev/icons?i=postgres" height="36" title="PostgreSQL" alt="PostgreSQL" />
@@ -50,7 +50,7 @@ Me interesa construir software que resuelva problemas reales, especialmente en e
       <td width="50%" valign="top">
         <strong>🏦 <a href="https://github.com/Pipe-C/PascuaBank">PascuaBank</a></strong>
         <br /><br />
-        Sistema bancario digital monorepo con operaciones financieras atómicas, auditoría inmutable y prevención de condiciones de carrera.
+        Sistema bancario monorepo con operaciones atómicas, auditoría inmutable y prevención de condiciones de carrera.
         <br /><br />
         <img src="https://img.shields.io/badge/NestJS-30363D?style=flat-square&logo=nestjs" alt="NestJS" />
         <img src="https://img.shields.io/badge/TypeScript-30363D?style=flat-square&logo=typescript" alt="TypeScript" />
@@ -61,7 +61,7 @@ Me interesa construir software que resuelva problemas reales, especialmente en e
       <td width="50%" valign="top">
         <strong>💰 <a href="https://github.com/Pipe-C/miNatilleraHackatonKiro">miNatillera</a></strong>
         <br /><br />
-        Aplicación Serverless para la gestión financiera colectiva, desarrollada para el Kiro AI Hackathon con servicios de AWS.
+        Aplicación Serverless de gestión financiera colectiva desarrollada para el Kiro AI Hackathon sobre AWS.
         <br /><br />
         <img src="https://img.shields.io/badge/Java_21-30363D?style=flat-square&logo=openjdk" alt="Java 21" />
         <img src="https://img.shields.io/badge/Spring_Boot-30363D?style=flat-square&logo=springboot" alt="Spring Boot" />
@@ -73,7 +73,7 @@ Me interesa construir software que resuelva problemas reales, especialmente en e
       <td width="50%" valign="top">
         <strong>🛡️ <a href="https://github.com/Pipe-C/Laboratorio-XSS">Laboratorio-XSS</a></strong>
         <br /><br />
-        Laboratorio interactivo sobre XSS, Session Hijacking y contramedidas de desarrollo seguro alineadas con ISO/IEC 27001:2022 (A.8.28).
+        Laboratorio interactivo de XSS y Session Hijacking con contramedidas de desarrollo seguro.
         <br /><br />
         <img src="https://img.shields.io/badge/React-30363D?style=flat-square&logo=react" alt="React" />
         <img src="https://img.shields.io/badge/Vite-30363D?style=flat-square&logo=vite" alt="Vite" />
@@ -83,7 +83,7 @@ Me interesa construir software que resuelva problemas reales, especialmente en e
       <td width="50%" valign="top">
         <strong>🦉 <a href="https://github.com/Pipe-C/THOTH">TOTH</a></strong>
         <br /><br />
-        Asistente académico móvil con IA generativa, RAG híbrido institucional y web, y generación de contenido adaptada a estudiantes y docentes.
+        Asistente académico móvil con IA generativa, RAG institucional y contenido adaptado a estudiantes y docentes.
         <br /><br />
         <img src="https://img.shields.io/badge/React_Native-30363D?style=flat-square&logo=react" alt="React Native" />
         <img src="https://img.shields.io/badge/TypeScript-30363D?style=flat-square&logo=typescript" alt="TypeScript" />
