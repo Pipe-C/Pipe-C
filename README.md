@@ -76,9 +76,6 @@ Aplicación Serverless para gestión financiera colectiva (Kiro AI Hackathon) de
   <img src="https://img.shields.io/badge/AWS-30363D?style=flat-square&logo=amazonwebservices" alt="AWS">
   <img src="https://img.shields.io/badge/DynamoDB-30363D?style=flat-square&logo=amazondynamodb" alt="DynamoDB">
 </p>
-<p>
-  🔗 <a href="https://d2a4sb8pl2c18a.cloudfront.net/">Demo en vivo</a>
-</p>
 
 </td>
 
