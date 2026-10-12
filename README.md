@@ -45,53 +45,56 @@ Me interesa construir software que resuelva problemas reales, especialmente en e
 ### ▣ Proyectos Destacados
 
 <table width="100%">
-<tbody>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏦 <a href="https://github.com/Pipe-C/PascuaBank">PascuaBank</a>
-
-Sistema bancario digital monorepo con operaciones financieras atómicas, auditoría inmutable y prevención de condiciones de carrera.
-
-<p>
-  <img src="https://img.shields.io/badge/NestJS-30363D?style=flat-square&logo=nestjs" alt="NestJS"><img src="https://img.shields.io/badge/TypeScript-30363D?style=flat-square&logo=typescript" alt="TypeScript"><img src="https://img.shields.io/badge/Prisma-30363D?style=flat-square&logo=prisma" alt="Prisma"><img src="https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql" alt="PostgreSQL"><img src="https://img.shields.io/badge/Docker-30363D?style=flat-square&logo=docker" alt="Docker">
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💰 <a href="https://github.com/Pipe-C/miNatilleraHackatonKiro">miNatillera</a>
-
-Aplicación Serverless para gestión financiera colectiva (Kiro AI Hackathon) desplegada sobre AWS Lambda + SnapStart.
-
-<p>
-  <img src="https://img.shields.io/badge/Java_21-30363D?style=flat-square&logo=openjdk" alt="Java 21"><img src="https://img.shields.io/badge/Spring_Boot-30363D?style=flat-square&logo=springboot" alt="Spring Boot"><img src="https://img.shields.io/badge/AWS-30363D?style=flat-square&logo=amazonwebservices" alt="AWS"><img src="https://img.shields.io/badge/DynamoDB-30363D?style=flat-square&logo=amazondynamodb" alt="DynamoDB">
-</p>
-
-</td>
-
-</tr>
-</tbody>
-
-<tbody>
-<tr>
-
-<td colspan="2" width="100%" valign="top">
-
-### 🛡️ <a href="https://github.com/Pipe-C/Laboratorio-XSS">Laboratorio-XSS</a>
-
-Laboratorio interactivo sobre XSS, Session Hijacking y contramedidas alineadas con **ISO/IEC 27001:2022 (A.8.28)**.
-
-<p>
-  <img src="https://img.shields.io/badge/React-30363D?style=flat-square&logo=react" alt="React"><img src="https://img.shields.io/badge/Vite-30363D?style=flat-square&logo=vite" alt="Vite"><img src="https://img.shields.io/badge/Tailwind_CSS-30363D?style=flat-square&logo=tailwindcss" alt="Tailwind CSS"><img src="https://img.shields.io/badge/DOMPurify-30363D?style=flat-square" alt="DOMPurify"><img src="https://img.shields.io/badge/Secure_Coding-30363D?style=flat-square" alt="Secure Coding">
-</p>
-
-</td>
-
-</tr>
-</tbody>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <strong>🏦 <a href="https://github.com/Pipe-C/PascuaBank">PascuaBank</a></strong>
+        <br /><br />
+        Sistema bancario digital monorepo con operaciones financieras atómicas, auditoría inmutable y prevención de condiciones de carrera.
+        <br /><br />
+        <img src="https://img.shields.io/badge/NestJS-30363D?style=flat-square&logo=nestjs" alt="NestJS" />
+        <img src="https://img.shields.io/badge/TypeScript-30363D?style=flat-square&logo=typescript" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Prisma-30363D?style=flat-square&logo=prisma" alt="Prisma" />
+        <img src="https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Docker-30363D?style=flat-square&logo=docker" alt="Docker" />
+      </td>
+      <td width="50%" valign="top">
+        <strong>💰 <a href="https://github.com/Pipe-C/miNatilleraHackatonKiro">miNatillera</a></strong>
+        <br /><br />
+        Aplicación Serverless para la gestión financiera colectiva, desarrollada para el Kiro AI Hackathon con servicios de AWS.
+        <br /><br />
+        <img src="https://img.shields.io/badge/Java_21-30363D?style=flat-square&logo=openjdk" alt="Java 21" />
+        <img src="https://img.shields.io/badge/Spring_Boot-30363D?style=flat-square&logo=springboot" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/AWS-30363D?style=flat-square&logo=amazonwebservices" alt="AWS" />
+        <img src="https://img.shields.io/badge/DynamoDB-30363D?style=flat-square&logo=amazondynamodb" alt="DynamoDB" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <strong>🛡️ <a href="https://github.com/Pipe-C/Laboratorio-XSS">Laboratorio-XSS</a></strong>
+        <br /><br />
+        Laboratorio interactivo sobre XSS, Session Hijacking y contramedidas de desarrollo seguro alineadas con ISO/IEC 27001:2022 (A.8.28).
+        <br /><br />
+        <img src="https://img.shields.io/badge/React-30363D?style=flat-square&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-30363D?style=flat-square&logo=vite" alt="Vite" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-30363D?style=flat-square&logo=tailwindcss" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/DOMPurify-30363D?style=flat-square" alt="DOMPurify" />
+      </td>
+      <td width="50%" valign="top">
+        <strong>🦉 <a href="https://github.com/Pipe-C/THOTH">TOTH</a></strong>
+        <br /><br />
+        Asistente académico móvil con IA generativa, RAG híbrido institucional y web, y generación de contenido adaptada a estudiantes y docentes.
+        <br /><br />
+        <img src="https://img.shields.io/badge/React_Native-30363D?style=flat-square&logo=react" alt="React Native" />
+        <img src="https://img.shields.io/badge/TypeScript-30363D?style=flat-square&logo=typescript" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/NativeWind-30363D?style=flat-square&logo=tailwindcss" alt="NativeWind" />
+        <img src="https://img.shields.io/badge/Kotlin-30363D?style=flat-square&logo=kotlin" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Firebase-30363D?style=flat-square&logo=firebase" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Gemini-30363D?style=flat-square&logo=googlegemini" alt="Gemini" />
+        <img src="https://img.shields.io/badge/Supabase-30363D?style=flat-square&logo=supabase" alt="Supabase" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
