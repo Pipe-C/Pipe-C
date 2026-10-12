@@ -65,8 +65,8 @@ Me interesa construir software que resuelva problemas reales, especialmente en d
         <br /><br />
         <img src="https://img.shields.io/badge/Java_21-30363D?style=flat-square&logo=openjdk" alt="Java 21" />
         <img src="https://img.shields.io/badge/Spring_Boot-30363D?style=flat-square&logo=springboot" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/AWS-30363D?style=flat-square&logo=amazonwebservices" alt="AWS" />
-        <img src="https://img.shields.io/badge/DynamoDB-30363D?style=flat-square&logo=amazondynamodb" alt="DynamoDB" />
+        <img src="https://img.shields.io/badge/AWS-30363D?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+        <img src="https://img.shields.io/badge/DynamoDB-30363D?style=flat-square&logo=amazondynamodb&logoColor=4053D6" alt="DynamoDB" />
       </td>
     </tr>
     <tr>
